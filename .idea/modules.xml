@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gles-workshop-kai-niklas.iml" filepath="$PROJECT_DIR$/gles-workshop-kai-niklas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gles-native-template.iml" filepath="$PROJECT_DIR$/gles-native-template.iml" />
     </modules>
   </component>
 </project>

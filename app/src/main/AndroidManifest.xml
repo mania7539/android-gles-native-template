@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="tw.ray.gles_workshop_kai_niklas">
+          package="tw.ray.gles">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="tw.ray.gles.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

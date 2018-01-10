@@ -5,9 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="tw.ray.gles_workshop_kai_niklas.MainActivity">
+    tools:context="tw.ray.gles.MainActivity">
 
-    <tw.ray.gles_workshop_kai_niklas.WorkshopGLSurfaceView
+    <tw.ray.gles.WorkshopGLSurfaceView
         android:id="@+id/activity_main_glsurfaceview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

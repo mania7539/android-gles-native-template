@@ -1,6 +1,5 @@
-package tw.ray.gles_workshop_kai_niklas;
+package tw.ray.gles;
 import android.content.Context;
-import android.opengl.GLES20;
 import android.opengl.GLES30;
 import android.opengl.GLSurfaceView;
 import android.util.AttributeSet;

@@ -1,4 +1,4 @@
-package tw.ray.gles_workshop_kai_niklas;
+package tw.ray.gles;
 
 import org.junit.Test;
 
