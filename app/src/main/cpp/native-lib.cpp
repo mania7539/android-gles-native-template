@@ -8,14 +8,14 @@ extern "C" {
 
     int
     Java_tw_ray_gles_MainActivity_main(
-        JNIEnv *env, jobject /* this */);
+        JNIEnv *env, jobject /* this */, int argc, jstring argv);
 
 }
 
 JNIEXPORT int JNICALL
 Java_tw_ray_gles_MainActivity_main(
         JNIEnv *env,
-        jobject /* this */, int argc, char **argv)
+        jobject /* this */, int argc, jstring argv)
 {
 
 
